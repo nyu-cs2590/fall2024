@@ -5,16 +5,20 @@ title: NLP via language modeling
 Oct 23
 : [Scaling language models]() [[recording]]
   : 
-: - N-gram language models 
-  - Scaling and emergent abilities  
+: - History of language models 
+  - Scaling law
+  - Emergent capabilities
 
 Oct 24
-: **Section**{: .label .label-purple } Training LLMs in practice
+: **Section**{: .label .label-purple } Scaling law review
 
 Oct 30
-: [Prompt Engineering]() [[recording]]
+: [Prompting]() [[recording]]
   : **HW 3 due**{: .label .label-red }
     **HW 4 out**{: .label .label-green }
+: - In-context learning
+  - Chain-of-thought reasoning
+  - Prompt engineering
 
 Oct 31
 : **Section**{: .label .label-purple } LLM agents
@@ -22,8 +26,8 @@ Oct 31
 Nov 6 
 : [Aligning language models (basics)]() [[recording]]
   :  **Midterm report due**{: .label .label-red }
-: - Why do we need alignment?
-  - Basic alignment techniques
+: - Instruction tuning
+  - Reinforcement learning
 
 Nov 7 
 : **Section**{: .label .label-purple } Project midterm peer review 
@@ -31,12 +35,19 @@ Nov 7
 Nov 13
 : [Aligning language models (advanced)]() [[recording]]
   : **HW 4 due**{: .label .label-red } 
+: - Reinforcement learning from human feedback
+  - Direct policy optimization
+  - Reward hacking
 
 Nov 14
-: **Section**{: .label .label-purple } RLHF and extensions 
+: **Section**{: .label .label-purple } RLHF review
 
 Nov 20
 : Benchmarking and evaluation 
+  :
+: - Building NLP datasets
+  - Holistic evaluation
+  - Challenges in evaluating LLMs
 
 Nov 21
 : **Section**{: .label .label-purple } Evaluation tools, modern NLP datasets and benchmarks
