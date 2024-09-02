@@ -1,9 +1,9 @@
 ---
 name: Vaishnav Potlapalli 
 role: Grader 
-email: 
-website: 
-photo: 
+email: vp2499@nyu.edu 
+website: https://www.vaishnavrao.com/
+photo: vaishnav.jpeg
 ---
 
 
