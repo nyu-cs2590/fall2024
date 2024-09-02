@@ -6,4 +6,4 @@ website:
 photo: 
 ---
 
-Office hour: 
+Office hour: Tu 3-4 pm (CDS or Zoom)
