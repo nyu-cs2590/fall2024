@@ -3,7 +3,7 @@ title: Supervised learning
 ---
 
 Sep 4
-: [Text classification]()
+: [Text classification](https://nyu-cs2590.github.io/course-material/fall2024/lecture/lec01/main.pdf)
   : **HW 1 out**{: .label .label-green }
 : - Course overview
   - Supervised learning basics
