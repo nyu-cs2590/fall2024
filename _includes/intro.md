@@ -25,10 +25,10 @@ Students are expected to have a solid mathematics background and strong programm
 
 ## Logistics
 
-- **Lectures**: Wed 4:55pm--6:35pm, 19 West 4th St Room 101 
+- **Lectures**: Wed 4:55 PM - 6:35 PM , 19 West 4th St Room 101 
   - Join on [Zoom](https://nyu.zoom.us/j/92857238819) using the NYU account
   - Zoom recordings can be found on Brightspace
-- **Sections**: Mon 10:15am-11:05am, 19 University Place, Room 102
+- **Sections**: THUR 4:55am-5:45am, 6 Washington Pl (Meyer Hall) Room 121
   - Join on [Zoom](https://nyu.zoom.us/j/92773653781) using the NYU account
   - Zoom recordings can be found on Brightspace
 - **Office hours**: We will have five office hours each week: one with the instructor (lecture or general questions) and one with each of the four section leaders (lecture or assignment questions). Details can be found on the [Staff page]({% link staff.md %}). You are also encouraged to ask questions on Campuswire, which will be answered by the TAs or your classmates.
