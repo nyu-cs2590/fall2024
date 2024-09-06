@@ -12,7 +12,7 @@ Sep 4
     - Textbook: [JM Ch4.1](https://web.stanford.edu/~jurafsky/slp3/4.pdf), [JM Ch5](https://web.stanford.edu/~jurafsky/slp3/5.pdf)
 
 Sep 5 
-: **Section**{: .label .label-purple } Python/Numpy review; text classification example
+: **Section**{: .label .label-purple } Python/Numpy review; text classification example[Section Material](https://campuswire.com/c/G22A0F4B8/feed/3)
 
 Sep 11 
 : [Word embedding]() [[recording]]
