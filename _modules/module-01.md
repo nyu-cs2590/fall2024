@@ -12,7 +12,7 @@ Sep 4
     - Textbook: [JM Ch4.1](https://web.stanford.edu/~jurafsky/slp3/4.pdf), [JM Ch5](https://web.stanford.edu/~jurafsky/slp3/5.pdf)
 
 Sep 5 
-: **Section**{: .label .label-purple } Python/Numpy review; text classification example[Section Material](https://campuswire.com/c/G22A0F4B8/feed/3)
+: **Section**{: .label .label-purple } Python/Numpy review; text classification example[BagOfWords.ipynb](https://nyu-cs2590.github.io/course-material/fall2024/section/sec01/BagOfWords.ipynb) [python_numpy_tutorial.ipynb](https://nyu-cs2590.github.io/course-material/fall2024/section/sec01/python_numpy_tutorial.ipynb) 
 
 Sep 11 
 : [Word embedding](https://nyu-cs2590.github.io/course-material/fall2024/lecture/lec02/main.pdf) [[recording]]
