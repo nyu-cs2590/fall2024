@@ -15,7 +15,7 @@ Sep 5
 : **Section**{: .label .label-purple } Python/Numpy review; text classification example[Section Material](https://campuswire.com/c/G22A0F4B8/feed/3)
 
 Sep 11 
-: [Word embedding]() [[recording]]
+: [Word embedding](https://nyu-cs2590.github.io/course-material/fall2024/lecture/lec02/main.pdf) [[recording]]
   : 
 : - Distributed representation of words
   - Learning word vectors
