@@ -6,4 +6,4 @@ website:
 photo: qing.jpeg
 ---
 
-Office hour: Friday 5-6 pm (CDS 242 or Zoom) 
+Office hour: Thur 3:50 - 4:50 pm (CDS 242 or Zoom) 
