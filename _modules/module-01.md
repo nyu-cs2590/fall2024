@@ -24,7 +24,7 @@ Sep 11
     - Original word2vec paper: [Efficient estimation of word representations in vector space](https://arxiv.org/pdf/1301.3781)
 
 Sep 12
-: **Section**{: .label .label-purple } Word vector algebra 
+: **Section**{: .label .label-purple } Word vector algebra [[slides]](https://nyu-cs2590.github.io/course-material/fall2024/section/sec02/sec02.pdf)
 
 Sep 18 
 : [Sequence modeling]() [[recording]]
