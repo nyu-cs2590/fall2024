@@ -39,7 +39,7 @@ Sep 18
     - Coding: [The annotated Transformer](https://nlp.seas.harvard.edu/annotated-transformer/)
 
 Sep 19           
-: **Section**{: .label .label-purple } Transformer implementation; HPC and PyTorch tutorial 
+: **Section**{: .label .label-purple } HPC and PyTorch tutorial [[notebook]](https://colab.research.google.com/drive/1v0M4XwEPysR7_EnnyjMGAJlZBjYqqHWh?usp=sharing)
 
 Sep 25
 : [Sequence generation]() [[recording]]
