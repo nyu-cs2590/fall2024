@@ -15,7 +15,7 @@ Sep 5
 : **Section**{: .label .label-purple } Python/Numpy review [[notebook]](https://nyu-cs2590.github.io/course-material/fall2024/section/sec01/python_numpy_tutorial.ipynb) ; BoW example [[notebook]](https://nyu-cs2590.github.io/course-material/fall2024/section/sec01/BagOfWords.ipynb) 
 
 Sep 11 
-: [Word embedding](https://nyu-cs2590.github.io/course-material/fall2024/lecture/lec02/main.pdf) [[recording]]
+: [Word embedding](https://nyu-cs2590.github.io/course-material/fall2024/lecture/lec02/main.pdf) [[recording](https://nyu.zoom.us/rec/share/HiGUBIoGz8T57qa52kK4tr2_7CTmJBMDSMt7AmV3pCShhGZIUaRKJZG2xJO8Esx3.RCq3e6PZ_iQMoiYk)]
   : 
 : - Distributed representation of words
   - Learning word vectors
@@ -27,7 +27,7 @@ Sep 12
 : **Section**{: .label .label-purple } Word vector algebra [[slides]](https://nyu-cs2590.github.io/course-material/fall2024/section/sec02/sec02.pdf) ; [[notebook]](https://nyu-cs2590.github.io/course-material/fall2024/section/sec02/sec02.ipynb)
 
 Sep 18 
-: [Sequence modeling]() [[recording]]
+: [Sequence modeling](https://nyu-cs2590.github.io/course-material/fall2024/lecture/lec03/main.pdf) [[recording]]
   : **HW 1 due**{: .label .label-red}
   : **HW 2 out**{: .label .label-green}
 : - Neural network basics
