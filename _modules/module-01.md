@@ -40,7 +40,6 @@ Sep 19
 : **Section**{: .label .label-purple } HPC and PyTorch tutorial [[notebook]](https://colab.research.google.com/drive/1v0M4XwEPysR7_EnnyjMGAJlZBjYqqHWh?usp=sharing)
 
 Sep 20
-: 
   : **HW 1 due**{: .label .label-red}
   : **HW 2 out**{: .label .label-green} [HW2](https://github.com/nyu-cs2590/course-material/blob/gh-pages/fall2024/assignment/hw2/hw2.zip?raw=true) [[pdf]](https://nyu-cs2590.github.io/course-material/fall2024/assignment/hw2/hw2.pdf)
 
