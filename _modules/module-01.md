@@ -29,7 +29,7 @@ Sep 12
 Sep 18 
 : [Sequence modeling](https://nyu-cs2590.github.io/course-material/fall2024/lecture/lec03/main.pdf) [[recording]]
   : **HW 1 due**{: .label .label-red}
-  : **HW 2 out**{: .label .label-green}
+  : **HW 2 out**{: .label .label-green} [HW2](https://github.com/nyu-cs2590/course-material/blob/gh-pages/fall2024/assignment/hw2/hw2.zip?raw=true) [[pdf]](https://nyu-cs2590.github.io/course-material/fall2024/assignment/hw2/hw2.pdf)
 : - Neural network basics
   - RNN and its variants 
   - Attention and Transformers
