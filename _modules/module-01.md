@@ -44,7 +44,7 @@ Sep 20
   : **HW 2 out**{: .label .label-green} [HW2](https://github.com/nyu-cs2590/course-material/blob/gh-pages/fall2024/assignment/hw2/hw2.zip?raw=true) [[pdf]](https://nyu-cs2590.github.io/course-material/fall2024/assignment/hw2/hw2.pdf)
 
 Sep 25
-: [Sequence generation]() [[recording]]
+: [Sequence generation](https://nyu-cs2590.github.io/course-material/fall2024/lecture/lec04/main.pdf) [[recording]]
     : 
 : - Encoder-decoder models
   - Decoding algorithms
