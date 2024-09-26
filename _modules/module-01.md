@@ -27,7 +27,7 @@ Sep 12
 : **Section**{: .label .label-purple } Word vector algebra [[slides]](https://nyu-cs2590.github.io/course-material/fall2024/section/sec02/sec02.pdf) ; [[notebook]](https://nyu-cs2590.github.io/course-material/fall2024/section/sec02/sec02.ipynb)
 
 Sep 18 
-: [Sequence modeling](https://nyu-cs2590.github.io/course-material/fall2024/lecture/lec03/main.pdf) [[recording]]
+: [Sequence modeling](https://nyu-cs2590.github.io/course-material/fall2024/lecture/lec03/main.pdf) [[recording](https://nyu.zoom.us/rec/share/9au3vHfTH0xO8TIYXn35iCc2IxGTfRNO1j1yQvsGvIXMu5xd-arqSg-tMlk9f2lC.i0L5byMZHU5Capn4)]
 : - Neural network basics
   - RNN and its variants 
   - Attention and Transformers
@@ -44,10 +44,13 @@ Sep 20
   : **HW 2 out**{: .label .label-green} [HW2](https://github.com/nyu-cs2590/course-material/blob/gh-pages/fall2024/assignment/hw2/hw2.zip?raw=true) [[pdf]](https://nyu-cs2590.github.io/course-material/fall2024/assignment/hw2/hw2.pdf)
 
 Sep 25
-: [Sequence generation](https://nyu-cs2590.github.io/course-material/fall2024/lecture/lec04/main.pdf) [[recording]]
+: [Sequence generation](https://nyu-cs2590.github.io/course-material/fall2024/lecture/lec04/main.pdf) [[recording](https://nyu.zoom.us/rec/share/KIez1L-ENvUwSpcDFsPX938J-vvK5tplwgDxRZggdiVTx6TUuilbY6V0LwXl2FRp.TIEzFbtxkX5trKug)]
     : 
 : - Encoder-decoder models
   - Decoding algorithms
+  - Additional readings:
+    - Original attention paper: [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/pdf/1409.0473)
+    - Original top-p sampling paper: [The Curious Case of Neural Text Degeneration](https://arxiv.org/abs/1904.09751)
 
 Sep 26
 : **Section**{: .label .label-purple } Machine translation
