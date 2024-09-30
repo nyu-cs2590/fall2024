@@ -6,4 +6,4 @@ website:
 photo: akshitha.jpeg
 ---
 
-Office hour: Tuesday 3:00pm to 4:00pm (In person at CDS 242 or Zoom)
+Office hour: Tuesday 2:00pm to 3:00pm (In person at CDS 242 or Zoom)
