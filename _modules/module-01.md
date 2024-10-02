@@ -56,7 +56,7 @@ Sep 26
 : **Section**{: .label .label-purple } Machine translation
 
 Oct 2
-: [Tasks and applications]() [[recording]]
+: [Tasks and applications](https://nyu-cs2590.github.io/course-material/fall2024/lecture/lec05/main.pdf) [[recording]]
   : 
 : - Formulation of NLP tasks
   - Final project tips 
