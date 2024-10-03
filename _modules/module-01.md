@@ -59,7 +59,8 @@ Oct 2
 : [Tasks and applications](https://nyu-cs2590.github.io/course-material/fall2024/lecture/lec05/main.pdf) [[recording]]
   : 
 : - Formulation of NLP tasks
-  - Final project tips [Proposal Template](https://github.com/nyu-cs2590/course-material/blob/gh-pages/fall2024/project/DS-GA-1011 proposal template.zip?raw=true)
+  - Final project tips
+  - [Proposal Template](https://github.com/nyu-cs2590/course-material/blob/gh-pages/fall2024/project/DS-GA-1011%20proposal%20template.zip?raw=true)
 
 
 Oct 3           
