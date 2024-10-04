@@ -66,3 +66,4 @@ Oct 2
 Oct 3           
 : **Section**{: .label .label-purple } Data processing, Huggingface datasets, Datasheet 
 [[slides]](https://nyu-cs2590.github.io/course-material/fall2024/section/section05/sec05.pdf)
+[[notebook]](https://nyu-cs2590.github.io/course-material/fall2024/section/section05/sec05_datasets.ipynb)
