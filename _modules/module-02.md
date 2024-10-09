@@ -8,7 +8,7 @@ Oct 09
     **HW 3 out**{: .label .label-green} 
 : - Self-supervised learning
   - Encoder-only, decoder-only, encoder-decoder models
-  - Adaptation / finetuning 
+  - Adaptation / finetuning  [HW3](https://github.com/nyu-cs2590/course-material/blob/gh-pages/fall2024/assignment/hw3/hw3.zip?raw=true) [[pdf]](https://nyu-cs2590.github.io/course-material/fall2024/assignment/hw3/hw3.pdf)
 
 Oct 10           
 : **Section**{: .label .label-purple } Huggingface Transformer
