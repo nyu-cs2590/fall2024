@@ -5,11 +5,11 @@ title: Representation learning
 Oct 09
 : [Pretraining and finetuning (basics)]() [[recording]]
   : **HW 2 due**{: .label .label-red }
-    **HW 3 out**{: .label .label-green} 
+    **HW 3 out**{: .label .label-green} [HW3 zip](https://github.com/nyu-cs2590/course-material/blob/gh-pages/fall2024/assignment/hw3/hw3.zip?raw=true) [[pdf]](https://nyu-cs2590.github.io/course-material/fall2024/assignment/hw3/hw3.pdf)
+
 : - Self-supervised learning
   - Encoder-only, decoder-only, encoder-decoder models
-  - Adaptation / finetuning  [HW3](https://github.com/nyu-cs2590/course-material/blob/gh-pages/fall2024/assignment/hw3/hw3.zip?raw=true) [[pdf]](https://nyu-cs2590.github.io/course-material/fall2024/assignment/hw3/hw3.pdf)
-
+  - Adaptation / finetuning 
 Oct 10           
 : **Section**{: .label .label-purple } Huggingface Transformer
 
