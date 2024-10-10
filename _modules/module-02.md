@@ -12,7 +12,7 @@ Oct 09
   - Efficient pre-training 
 
 Oct 10           
-: **Section**{: .label .label-purple } Huggingface Transformer
+: **Section**{: .label .label-purple } Huggingface Transformer [sec06 notebook](https://github.com/nyu-cs2590/course-material/blob/gh-pages/fall2024/section/sec06/sec06.ipynb)
 
 Oct 16
 : [Pretraining and finetuning (advanced)]() [[recording]]
