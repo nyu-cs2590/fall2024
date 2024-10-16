@@ -9,18 +9,16 @@ Oct 09
 
 : - Self-supervised learning
   - Encoder-only, decoder-only, encoder-decoder models
-  - Efficient pre-training 
 
 Oct 10           
 : **Section**{: .label .label-purple } Huggingface Transformer [Sec06 notebook](https://github.com/nyu-cs2590/course-material/blob/gh-pages/fall2024/section/sec06/sec06.ipynb) [Sec06 slides](https://github.com/nyu-cs2590/course-material/blob/gh-pages/fall2024/section/sec06/sec06.pdf)
 
 Oct 16
-: [Pretraining and finetuning (advanced)]() [[recording]]
+: [Pretraining and finetuning (advanced)](https://nyu-cs2590.github.io/course-material/fall2024/lecture/lec07/main.pdf) [[recording]]
   : **Proposal due**{: .label .label-red }
 : - Sub-word tokenization 
-  - Optimization algorithms
-  - Mixed-precision training
+  - Efficient pre-training 
   - Parameter efficient finetuning 
 
 Oct 17           
-: **Section**{: .label .label-purple } Position encoding 
+: **Section**{: .label .label-purple } Mixed-precision training, efficient inference
