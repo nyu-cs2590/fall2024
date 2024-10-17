@@ -21,4 +21,4 @@ Oct 16
   - Parameter efficient finetuning 
 
 Oct 17           
-: **Section**{: .label .label-purple } Mixed-precision training, efficient inference
+: **Section**{: .label .label-purple } [Mixed-precision training, efficient inference](https://github.com/nyu-cs2590/course-material/blob/gh-pages/fall2024/section/sec07/Efficient_Inference_Student_copy.pdf)
