@@ -3,7 +3,7 @@ title: NLP via language modeling
 ---
 
 Oct 23
-: [Scaling language models]() [[recording]]
+: [Scaling language models](https://nyu-cs2590.github.io/course-material/fall2024/lecture/lec08/main.pdf) [[recording]]
   : 
 : - History of language models 
   - Scaling law
