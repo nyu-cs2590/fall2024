@@ -3,8 +3,8 @@ title: Supervised learning
 ---
 
 Sep 4
-: [Text classification]()
-  : **HW 1 out**{: .label .label-green }
+: [Text classification](https://nyu-cs2590.github.io/course-material/fall2024/lecture/lec01/main.pdf) [[recording](https://nyu.zoom.us/rec/share/enf8wSBbYN1_dx787KnhOfMsCK3zE4Uveeib5Kspr3Xbjrl2oT05Cvz_GajKAMdm.oV0KLJwIXay9ErsA)]
+  : **HW 1 out**{: .label .label-green }[HW1](https://github.com/nyu-cs2590/course-material/blob/gh-pages/fall2024/assignment/hw1/hw1.zip?raw=true) [[pdf]](https://nyu-cs2590.github.io/course-material/fall2024/assignment/hw1/hw1.pdf)
 : - Course overview
   - Supervised learning basics
   - Feature-based text classification
@@ -12,10 +12,10 @@ Sep 4
     - Textbook: [JM Ch4.1](https://web.stanford.edu/~jurafsky/slp3/4.pdf), [JM Ch5](https://web.stanford.edu/~jurafsky/slp3/5.pdf)
 
 Sep 5 
-: **Section**{: .label .label-purple } Python/Numpy review; text classification example
+: **Section**{: .label .label-purple } Python/Numpy review [[notebook]](https://nyu-cs2590.github.io/course-material/fall2024/section/sec01/python_numpy_tutorial.ipynb) ; BoW example [[notebook]](https://nyu-cs2590.github.io/course-material/fall2024/section/sec01/BagOfWords.ipynb) 
 
 Sep 11 
-: [Word embedding]() [[recording]]
+: [Word embedding](https://nyu-cs2590.github.io/course-material/fall2024/lecture/lec02/main.pdf) [[recording](https://nyu.zoom.us/rec/share/HiGUBIoGz8T57qa52kK4tr2_7CTmJBMDSMt7AmV3pCShhGZIUaRKJZG2xJO8Esx3.RCq3e6PZ_iQMoiYk)]
   : 
 : - Distributed representation of words
   - Learning word vectors
@@ -24,12 +24,10 @@ Sep 11
     - Original word2vec paper: [Efficient estimation of word representations in vector space](https://arxiv.org/pdf/1301.3781)
 
 Sep 12
-: **Section**{: .label .label-purple } Word vector algebra 
+: **Section**{: .label .label-purple } Word vector algebra [[slides]](https://nyu-cs2590.github.io/course-material/fall2024/section/sec02/sec02.pdf) ; [[notebook]](https://nyu-cs2590.github.io/course-material/fall2024/section/sec02/sec02.ipynb)
 
 Sep 18 
-: [Sequence modeling]() [[recording]]
-  : **HW 1 due**{: .label .label-red}
-  : **HW 2 out**{: .label .label-green}
+: [Sequence modeling](https://nyu-cs2590.github.io/course-material/fall2024/lecture/lec03/main.pdf) [[recording](https://nyu.zoom.us/rec/share/9au3vHfTH0xO8TIYXn35iCc2IxGTfRNO1j1yQvsGvIXMu5xd-arqSg-tMlk9f2lC.i0L5byMZHU5Capn4)]
 : - Neural network basics
   - RNN and its variants 
   - Attention and Transformers
@@ -39,22 +37,33 @@ Sep 18
     - Coding: [The annotated Transformer](https://nlp.seas.harvard.edu/annotated-transformer/)
 
 Sep 19           
-: **Section**{: .label .label-purple } Transformer implementation; HPC and PyTorch tutorial 
+: **Section**{: .label .label-purple } HPC and PyTorch tutorial [[notebook]](https://colab.research.google.com/drive/1v0M4XwEPysR7_EnnyjMGAJlZBjYqqHWh?usp=sharing)
+
+Sep 20
+  : **HW 1 due**{: .label .label-red}
+  : **HW 2 out**{: .label .label-green} [HW2](https://github.com/nyu-cs2590/course-material/blob/gh-pages/fall2024/assignment/hw2/hw2.zip?raw=true) [[pdf]](https://nyu-cs2590.github.io/course-material/fall2024/assignment/hw2/hw2.pdf)
 
 Sep 25
-: [Sequence generation]() [[recording]]
+: [Sequence generation](https://nyu-cs2590.github.io/course-material/fall2024/lecture/lec04/main.pdf) [[recording](https://nyu.zoom.us/rec/share/KIez1L-ENvUwSpcDFsPX938J-vvK5tplwgDxRZggdiVTx6TUuilbY6V0LwXl2FRp.TIEzFbtxkX5trKug)]
     : 
 : - Encoder-decoder models
   - Decoding algorithms
+  - Additional readings:
+    - Original attention paper: [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/pdf/1409.0473)
+    - Original top-p sampling paper: [The Curious Case of Neural Text Degeneration](https://arxiv.org/abs/1904.09751)
 
 Sep 26
 : **Section**{: .label .label-purple } Machine translation [slides]((https://github.com/nyu-cs2590/course-material/blob/gh-pages/fall2024/section/sec04/tutorial_9_26.pdf))
 
 Oct 2
-: [Tasks and applications]() [[recording]]
+: [Tasks and applications](https://nyu-cs2590.github.io/course-material/fall2024/lecture/lec05/main.pdf) [[recording]]
   : 
 : - Formulation of NLP tasks
-  - Final project tips 
+  - Final project tips
+  - [Proposal Template](https://github.com/nyu-cs2590/course-material/blob/gh-pages/fall2024/project/DS-GA-1011%20proposal%20template.zip?raw=true)
+
 
 Oct 3           
 : **Section**{: .label .label-purple } Data processing, Huggingface datasets, Datasheet 
+[[slides]](https://nyu-cs2590.github.io/course-material/fall2024/section/section05/sec05.pdf)
+[[notebook]](https://nyu-cs2590.github.io/course-material/fall2024/section/section05/sec05_datasets.ipynb)

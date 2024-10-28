@@ -1,9 +1,9 @@
 ---
 name: Qing Wen 
 role: Section leader
-email: 
+email: qw919@nyu.edu
 website: 
-photo: 
+photo: qing.jpeg
 ---
 
-Office hour: 
+Office hour: Thur 3:50 - 4:50 pm (CDS 763 or Zoom) 

@@ -1,9 +1,9 @@
 ---
 name: Divyam Madaan 
 role: Section leader
-email: 
-website: 
-photo: 
+email: divyam.madaan@nyu.edu
+website: https://dmadaan.com/
+photo: divyam.png
 ---
 
-Office hour: 
+Office hour: Thursday 2-3 pm (CDS 502 or zoom)
