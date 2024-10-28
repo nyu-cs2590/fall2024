@@ -48,7 +48,7 @@ Sep 25
   - Decoding algorithms
 
 Sep 26
-: **Section**{: .label .label-purple } [Machine translation](https://github.com/nyu-cs2590/course-material/blob/gh-pages/fall2024/section/sec04/tutorial_9_26.pdf)
+: **Section**{: .label .label-purple } Machine translation [slides]((https://github.com/nyu-cs2590/course-material/blob/gh-pages/fall2024/section/sec04/tutorial_9_26.pdf))
 
 Oct 2
 : [Tasks and applications]() [[recording]]
