@@ -10,7 +10,7 @@ Oct 23
   - Emergent capabilities
 
 Oct 24
-: **Section**{: .label .label-purple } Scaling law review
+: **Section**{: .label .label-purple } Scaling law review [slides](https://github.com/nyu-cs2590/course-material/blob/gh-pages/fall2024/section/sec08/Scaling%20LLM%20Training.pptx)
 
 Oct 30
 : [Prompting]() [[recording]]
