@@ -21,7 +21,7 @@ Oct 30
   - Prompt engineering
 
 Oct 31
-: **Section**{: .label .label-purple } LLM agents
+: **Section**{: .label .label-purple } Prompt Engineering
 
 Nov 6 
 : [Aligning language models (basics)]() [[recording]]
