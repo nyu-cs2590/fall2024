@@ -13,21 +13,18 @@ Oct 24
 : **Section**{: .label .label-purple } Scaling law review [slides](https://github.com/nyu-cs2590/course-material/blob/gh-pages/fall2024/section/sec08/Scaling%20LLM%20Training.pptx)
 
 Oct 30
-: [Prompting]() [[recording]]
+: [Aligning language models (basics)](https://nyu-cs2590.github.io/course-material/fall2024/lecture/lec09/main.pdf) [[recording]]
   : **HW 3 due**{: .label .label-red }
     **HW 4 out**{: .label .label-green }
-: - In-context learning
-  - Chain-of-thought reasoning
-  - Prompt engineering
+: - Instruction tuning
+  - Reinforcement learning
 
 Oct 31
 : **Section**{: .label .label-purple } Prompt Engineering
 
 Nov 6 
-: [Aligning language models (basics)]() [[recording]]
+: [Guest lecture]() [[recording]]
   :  **Midterm report due**{: .label .label-red }
-: - Instruction tuning
-  - Reinforcement learning
 
 Nov 7 
 : **Section**{: .label .label-purple } Project midterm peer review 
