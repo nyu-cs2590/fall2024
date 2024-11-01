@@ -15,7 +15,7 @@ Oct 24
 Oct 30
 : [Aligning language models (basics)](https://nyu-cs2590.github.io/course-material/fall2024/lecture/lec09/main.pdf) [[recording]]
   : **HW 3 due**{: .label .label-red }
-    **HW 4 out**{: .label .label-green }
+    **HW 4 out**{: .label .label-green } [HW 4 zip](https://github.com/nyu-cs2590/course-material/blob/gh-pages/fall2024/assignment/hw4/hw4.zip) [pdf](https://github.com/nyu-cs2590/course-material/blob/gh-pages/fall2024/assignment/hw4/hw4_nlp.pdf)
 : - Instruction tuning
   - Reinforcement learning
 
