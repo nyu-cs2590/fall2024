@@ -30,7 +30,7 @@ Nov 7
 : **Section**{: .label .label-purple } Project midterm peer review 
 
 Nov 13
-: [Aligning language models (advanced)]() [[recording]]
+: [Aligning language models (advanced)](https://nyu-cs2590.github.io/course-material/fall2024/lecture/lec11/main.pdf) [[recording]]
   : **HW 4 due**{: .label .label-red } 
 : - Reinforcement learning from human feedback
   - Direct policy optimization
