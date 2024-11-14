@@ -37,7 +37,7 @@ Nov 13
   - Reward hacking
 
 Nov 14
-: **Section**{: .label .label-purple } RLHF review
+: **Section**{: .label .label-purple } [RLHF review](https://github.com/nyu-cs2590/course-material/blob/gh-pages/fall2024/section/sec10/RLHF_student.pdf)
 
 Nov 20
 : Benchmarking and evaluation 
