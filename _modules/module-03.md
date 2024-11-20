@@ -40,7 +40,7 @@ Nov 14
 : **Section**{: .label .label-purple } [RLHF review](https://github.com/nyu-cs2590/course-material/blob/gh-pages/fall2024/section/sec10/RLHF_student.pdf)
 
 Nov 20
-: Benchmarking and evaluation 
+: [Benchmarking and evaluation](https://nyu-cs2590.github.io/course-material/fall2024/lecture/lec12/main.pdf)
   :
 : - Building NLP datasets
   - Holistic evaluation
