@@ -23,7 +23,7 @@ Oct 31
 : **Section**{: .label .label-purple } Prompt Engineering [[slides]](https://nyu-cs2590.github.io/course-material/fall2024/section/sec09/sec10.pdf)
 
 Nov 6 
-: [Guest lecture]() [[recording]]
+: [Guest lecture: Misalignment and Scalable Oversight by Ruiqi Zhong](https://nyu-cs2590.github.io/course-material/fall2024/lecture/lec10/nyu-alignment-lecture-ruiqi.pdf)
   :  **Midterm report due**{: .label .label-red }
 
 Nov 7 
