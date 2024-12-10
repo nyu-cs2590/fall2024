@@ -58,6 +58,7 @@ Nov 28
 
 Dec 4
 : Presentation of final projects 
+- [Final Report Template](https://github.com/nyu-cs2590/course-material/blob/gh-pages/fall2024/project/DS-GA-1011%20report%20template.zip?raw=true)
 
 Dec 5
 : **Section**{: .label .label-purple } Presentation of final projects
