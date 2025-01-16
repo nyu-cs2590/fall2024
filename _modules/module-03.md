@@ -50,8 +50,7 @@ Nov 21
 : **Section**{: .label .label-purple } Evaluation tools, modern NLP datasets and benchmarks
 
 Nov 27
-: Guest lecture (TBD) 
-)]
+: [Guest lecture: Can Language Models Reason? by Abulhair Saparov.]
 
 Nov 28
 : Thanksgiving break (no section) 
